@@ -1,5 +1,4 @@
-## Visitors:
-![Fiestyvortax2](https://profile-counter.glitch.me/fiestyvortax2/count.svg)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1056943153501982740)](https://discord.com/users/1056943153501982740)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/g2C4jQq4en) 
