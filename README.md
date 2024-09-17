@@ -110,12 +110,9 @@
 
 <div align="center" id="stats">
     <a href="https://fiesty.fo/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
-        <img src="https://github-readme-stats.vercel.app/api?username=1337Syntax&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=36BCF7FF&icon_color=05d6f2&ring_color=05d6f2"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=36BCF7FF&icon_color=05d6f2&ring_color=05d6f2" alt="GitHub Stats"/>
     </a>
 </div>
 
 </body>
 </html>
-
-
-
