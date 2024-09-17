@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1056943153501982740)](https://discord.com/users/1056943153501982740)
+[![Discord Presence](https://lanyard.cnrad.dev/api/289100850285117460)](https://discord.com/users/1056943153501982740)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/g2C4jQq4en) 
