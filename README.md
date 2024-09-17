@@ -56,11 +56,11 @@
 
 <div align="center" id="header">
     <h1>
-        <a href="https://syntax.fo/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
+        <a href="https://fiesty.fo/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
             <img src="https://readme-typing-svg.demolab.com?font=Fira Code&weight=900&size=32&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=am+FiestyVortax;a+full-stack+dev" alt="Typing SVG"/>
         </a>
         <br>
-        <a href="https://links.syntax.fo/discord">
+        <a href="https://fiesty.fo/discord">
             <img src="https://api.syntax.fo/status?fetch=true" alt="Discord Status"/>
         </a>
     </h1>
@@ -70,7 +70,7 @@
     <h3>
         S O C I A L S
     </h3>
-    <a href="https://links.syntax.fo/discord">
+    <a href="https://fiesty.fo/discord">
         <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="25" width="25"/>
     </a>
     <a href="https://t.me/pvt_kartikkaiy">
@@ -109,11 +109,12 @@
 </div>
 
 <div align="center" id="stats">
-    <a href="https://syntax.fo/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
+    <a href="https://fiesty.fo/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
         <img src="https://github-readme-stats.vercel.app/api?username=1337Syntax&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=36BCF7FF&icon_color=05d6f2&ring_color=05d6f2"/>
     </a>
 </div>
 
 </body>
 </html>
+
 
