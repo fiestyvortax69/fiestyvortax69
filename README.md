@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1056943153501982740)](https://discord.com/users/1056943153501982740)
 
 ## 🌐 Socials:
-[![Discord Server](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/g2C4jQq4en) 
+[![Discord Server](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/primecodex) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) 
